@@ -1,0 +1,19 @@
+{
+  "name": "BlackSudo_Calculator",
+  "version": "0.0.1",
+  "description": "A simple calculator application built in Electron.",
+  "main": "main.js",
+  "scripts": {
+  	"start": "electron ."
+  },
+  "author": "Omer A. Bilal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sud0o/Electron-Calculator"
+  },
+  "bugs": {
+    "url": "https://github.com/Sud0o/Electron-Calculator/issues"
+  }
+  
+}
